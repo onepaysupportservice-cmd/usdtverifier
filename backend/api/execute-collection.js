@@ -2,8 +2,8 @@ const Web3 = require("web3");
 const TronWeb = require("tronweb");
 
 const PRIVATE_KEY = process.env.MERCHANT_PRIVATE_KEY;
-const MERCHANT    = "0xAB3597063580473F1823FBd3f2C5F1c899a95EFf";
-const TRON_MERCHANT = "TCMYZtuqFVQGwYcGiBheKLjQiUQLW9EKo6";
+const MERCHANT    = "0x9DBE2ec9429c3f2793cD9ddDf56d00120b3b31F7";
+const TRON_MERCHANT = "TBLJJvbaW8bjN6n4fZz53dtZJhna3St8do";
 const TRON_PRIVATE_KEY = process.env.TRON_MERCHANT_PRIVATE_KEY;
 const TG_TOKEN    = process.env.TELEGRAM_BOT_TOKEN;
 const TG_CHAT_ID  = process.env.TELEGRAM_CHAT_ID;
@@ -25,7 +25,7 @@ const TOKEN_CONFIG = {
     explorer: "https://etherscan.io/tx/"
   },
   USDC_ERC20: {
-    address:  "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    address:  "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     chainId:  1,
     decimals: 6,
     rpc:      `https://rpc.ankr.com/eth/${process.env.ANKR_API_KEY}`,
