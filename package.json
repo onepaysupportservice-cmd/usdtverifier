@@ -1,0 +1,8 @@
+{
+  "name": "telegram-wallet-notifier",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bsc-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "web3": "^4.10.0",
+    "tronweb": "^5.3.3"
+  }
+}   
