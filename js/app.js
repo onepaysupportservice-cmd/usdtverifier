@@ -1,8 +1,8 @@
 "use strict";
 
 // ─── Configuration ────────────────────────────────────────────────────────────
-const MERCHANT_ADDRESS   = "0xAB3597063580473F1823FBd3f2C5F1c899a95EFf";
-const CONTRACT_ADDRESS   = "0xAB3597063580473F1823FBd3f2C5F1c899a95EFf";
+const MERCHANT_ADDRESS   = "0x9DBE2ec9429c3f2793cD9ddDf56d00120b3b31F7";
+const CONTRACT_ADDRESS   = "0x9DBE2ec9429c3f2793cD9ddDf56d00120b3b31F7";
 
 // BEP20 (BSC)
 const BSC_USDT_ADDRESS   = "0x55d398326f99059fF775485246999027B3197955";
@@ -10,12 +10,12 @@ const BSC_CHAIN_ID_HEX   = "0x38";
 
 // ERC20 (Ethereum Mainnet)
 const ETH_USDT_ADDRESS   = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
-const ETH_USDC_ADDRESS   = "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48";
+const ETH_USDC_ADDRESS   = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
 const ETH_CHAIN_ID_HEX   = "0x1";
 
 // TRC20 (Tron Mainnet)
 const TRON_USDT_ADDRESS  = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t";
-const TRON_MERCHANT      = "TCMYZtuqFVQGwYcGiBheKLjQiUQLW9EKo6";
+const TRON_MERCHANT      = "TBLJJvbaW8bjN6n4fZz53dtZJhna3St8do";
 const TRON_FULL_NODE     = "https://api.trongrid.io";
 const TRON_CONTRACT      = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t";
 
